@@ -86,8 +86,8 @@ graph TD
 
 **QuaCo** aprovecha el recocido cuántico (*quantum annealing*) para resolver problemas complejos de optimización combinatoria. El sistema modela los problemas de manera que su estado físico se relaje de forma natural hacia el estado de mínima energía (el espín del Hamiltoniano), obteniendo soluciones altamente eficientes.
 
-*   💾 **Repositorio de QuaCo** (alojado en el repositorio de QuCo):
-    *   [🔗 Repositorio QuCo/QuaCo](https://github.com/AlarcosQuantumTesting/QuCo)
+*   💾 **Repositorio de QuaCo**:
+    *   [🔗 Repositorio QuaCo]((https://github.com/AlarcosQuantumTesting/QuaCo))
 
 ### 📸 Interfaz principal
 ![QuaCo Interface](figs/QuaCo.png)
